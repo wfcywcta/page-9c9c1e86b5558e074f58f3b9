@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "16e6fa188deff0330114dcac",
+  "owner": "wfcywcta",
+  "repo": "page-9c9c1e86b5558e074f58f3b9",
+  "title": "火箭云(RocketCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9c9c1e86b5558e074f58f3b9",
+      "a": "火箭云(RocketCloud)",
+      "b": "2027最新官网",
+      "entity": "火箭云(RocketCloud)",
+      "brand": "火箭云(RocketCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9d7801cbc4fa98e7d801afa2b28792e3e596cd6855db81f57d6038eb3fa0c7d1",
+      "content": {
+        "primary_entity": "火箭云(RocketCloud)",
+        "keyword1": "火箭云(RocketCloud)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，导入订阅后即可同步节点配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，让每个设备都跑起来。",
+          "AI_CLOSING_TITLE": "准备好连接",
+          "AI_DESCRIPTION": "，提供按流量分档的海外加速订阅，覆盖基础版、旗舰版与团队版三档配置。基础版每月100GB流量、支持3台设备；旗舰版每月300GB、5台设备并搭载IPLC专线与原生流媒体解锁；团队版每月1000GB、支持20台设备与定制路由。各档均支持按年付，年付价格为月付的十个月。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度选择合适配置。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻量使用，旗舰版兼顾流量与设备数，团队版面向多设备协作。",
+          "AI_FEATURE_TEXT_2": "按同时在线设备数选择：3台、5台或20台，避免多人挤占同一订阅。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付折合十个月价格，适合确定长期使用的场景。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备定档",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "三步完成从了解到使用。",
+          "AI_GUIDE_TITLE": "使用路径",
+          "AI_HERO_INTRO": "火箭云(RocketCloud)提供分档海外加速订阅，按流量与设备数划分基础版、旗舰版和团队版，满足从个人到团队的连接需求。",
+          "AI_HERO_SUBTITLE": "分档订阅，多端连接",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线优化",
+          "AI_HIGHLIGHT_3": "团队版20台设备在线",
+          "AI_PLANS_INTRO": "比较三档套餐的流量、设备数与年付价格，按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月用量和同时在线设备数，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备与线路是否匹配。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成节点配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "火箭云订阅入口",
+          "AI_FAQ_ANSWER_1": "基础版适合三台设备以内、每月流量需求约 100GB 的用户。如果经常看流媒体或需要游戏加速，推荐旗舰版，支持五台设备与 IPLC 专线优化。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中新建订阅配置，粘贴服务方提供的订阅链接，更新节点列表后选择延迟较低的节点即可连接。",
+          "AI_FAQ_ANSWER_3": "基础版支持三台设备，旗舰版五台，团队版二十台。同一时间内在线的设备数量不要超过所购套餐上限。",
+          "AI_FAQ_ANSWER_4": "年付相比月付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，均相当于十个月的价格。",
+          "AI_FAQ_ANSWER_5": "可以。主流客户端都支持导入订阅链接，在客户端中新建配置并粘贴链接，更新后即可选择节点使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "年付比月付便宜多少？",
+          "AI_FAQ_QUESTION_5": "可以在多个客户端上使用同一个订阅吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "neepp.cn",
+    "host": "neepp.cn"
+  },
+  "file_hashes": {
+    "index.html": "46a0a2bf24fbbbe098838e99a2e2501c929e804ec86279978584f1be8782a121",
+    "sitemap.xml": "52f94b1737c47a7a9f0af2df74750e57dff9319ed4f59a6194216e8d65dca870",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c281feb3626ae095be05587336346bcc4bc6327fa8f69033457d91d8b2b816cb",
+    "robots.txt": "4fd661e75e95bce6f8ed7c830327d40228b805a5fb05882ee9b2be22bfe405fc",
+    "2eaf945135a8f87622cc0f6d2ebba7d3.txt": "628d4ccee74c092e535d43a10893b37958269b3354b1cf6e8d752e1f848ad61a"
+  },
+  "revision": "e1834c5381cfcbf732b91f8071fe7461f371385f81929535ba44b3df8678de99"
+}
